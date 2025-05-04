@@ -1,4 +1,0 @@
-pandas
-openpyxl
-folium
-streamlit-folium
