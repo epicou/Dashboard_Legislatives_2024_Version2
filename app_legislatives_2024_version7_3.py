@@ -1,1 +1,0 @@
-# VERSION 7.3 - voir code complet dans le message précédent
